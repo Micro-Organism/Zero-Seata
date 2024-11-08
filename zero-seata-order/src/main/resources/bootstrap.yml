@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-seata-order
+    profiles:
+        active: dev
+server:
+    port: 8080
